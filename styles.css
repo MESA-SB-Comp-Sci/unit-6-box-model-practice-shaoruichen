@@ -1,4 +1,28 @@
 * {
     box-sizing: border-box;
 }
+    
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: lightblue;
+}
 
+html{
+    background-color: blue;
+}
+
+footer{
+    background-color: darkblue;
+    border-style: solid;
+    border-color: aqua;
+}
+
+header{
+    border-top: 10px solid lightblue ;
+    border-left: 10px solid lightblue;
+    border-bottom: 10px solid darkgrey;
+    border-right: 10px solid darkgrey;
+}
